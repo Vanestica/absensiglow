@@ -1,0 +1,45 @@
+{
+ "name": "@TaufiqHidayat23",
+ "short_name": "TaufiqH23",
+ "description": "A Personal Single Web Page",
+ "lang": "en-US",
+ "dir": "ltr",
+ "theme_color": "#414f57",
+ "start_url": ".",
+ "background_color": "#000",
+ "display": "standalone",
+ "orientation": "portrait-primary",
+ "icons": [{
+   "src": "assets/img/icons/ar23logo72.png",
+   "sizes": "72x72",
+   "type": "image/png"
+  }, {
+   "src": "assets/img/icons/ar23logo96.png",
+   "sizes": "96x96",
+   "type": "image/png"
+  }, {
+   "src": "assets/img/icons/ar23logo128.png",
+   "sizes": "128x128",
+   "type": "image/png"
+  }, {
+   "src": "assets/img/icons/ar23logo144.png",
+   "sizes": "144x144",
+   "type": "image/png"
+  }, {
+   "src": "assets/img/icons/ar23logo152.png",
+   "sizes": "152x152",
+   "type": "image/png"
+  }, {
+   "src": "assets/img/icons/ar23logo192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  }, {
+   "src": "assets/img/icons/ar23logo384.png",
+   "sizes": "384x384",
+   "type": "image/png"
+  }, {
+   "src": "assets/img/icons/ar23logo512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }]
+}
